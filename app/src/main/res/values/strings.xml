@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">BME Messenger</string>
+    <string name="title_activity_login">Bejelentkezés</string>
+    <string name="emailLabelString">E-mail</string>
+    <string name="passwordLabelString">Jelszó</string>
+    <string name="loginText">Bejelentkezés</string>
+    <string name="signUpText">Regisztrálás</string>
+    <string name="title_activity_user_details">UserDetails</string>
+    <string name="BMEImageText">BME Logó</string>
+    <string name="title_activity_conversation">ConversationActivity</string>
+    <string name="usernameLabel">Felhasználónév</string>
+    <string name="messageTextLabel">Üzenet</string>
+    <string name="sendTextLabel">Küldés</string>
+    <string name="sendNameTextLabel">Átnevezés</string>
+    <string name="title_activity_setting_professor">SettingProfessorActivity</string>
+    <string name="sendbackTextLabel">Részlet</string>
+    <string name="studentCommunicationConstraintText">Hallgatók korlátozása</string>
+    <string name="settingText">Beállítás</string>
+    <string name="logoutText">Kijelentkezés</string>
+    <string name="detailsText">Részlet</string>
+    <string name="patnersText">Beszélgetőtársak</string>
+    <string name="successfullSignUpText">SIKERES REGISZTRÁLÁS</string>
+    <string name="unsuccessfulLoginText">SIKERTELEN BEJELENTKEZÉS</string>
+    <string name="unsuccessfullSignUpText">SIKERTELEN REGISZTRÁLÁS</string>
+    <string name="successfullLoginText">SIKERES BEJELENTKEZÉS</string>
+    <string name="successfullSignUpNoDatabaseText">REGISZTRÁLVA VAGY, DE SIKERTELEN HOZZÁFÉRÉS AZ ADATBÁZISHOZ</string>
+    <string name="successfullLoginNoDatabaseText">SIKERTELEN HOZZÁFÉRÉS AZ ADATBÁZISHOZ</string>
+    <string name="emptyFieldsText">Üresek a mezők</string>
+</resources>

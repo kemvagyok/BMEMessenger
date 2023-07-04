@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="hu.bme.aut.android.bmemessenger">
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@drawable/bme_logo_kicsi_color"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/bme_logo_kicsi_color"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Bmemessenger"
+        tools:targetApi="33">
+        <activity
+            android:name=".SettingProfessorActivity"
+            android:exported="false"
+            android:label="@string/title_activity_setting_professor"
+            android:theme="@style/Theme.Bmemessenger" />
+        <activity
+            android:name=".UserDetailsActivity"
+            android:exported="false"
+            android:label="@string/title_activity_user_details"
+            android:theme="@style/Theme.Bmemessenger" />
+        <activity
+            android:name=".ConversationActivity"
+            android:exported="false"
+            android:label="@string/title_activity_conversation"
+            android:theme="@style/Theme.Bmemessenger" />
+        <activity
+            android:name=".UserMainActivity"
+            android:exported="false"
+            android:label="@string/title_activity_user_details"
+            android:theme="@style/Theme.Bmemessenger" />
+        <activity
+            android:name=".LoginActivity"
+            android:exported="true"
+            android:label="@string/title_activity_login"
+            android:theme="@style/Theme.Bmemessenger">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

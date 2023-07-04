@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "754483513443",
+    "firebase_url": "https://bmeforumecsggy-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "bmeforumecsggy",
+    "storage_bucket": "bmeforumecsggy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:754483513443:android:43480b78e1a8f4e2ed1056",
+        "android_client_info": {
+          "package_name": "hu.bme.aut.android.bmemessenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "754483513443-cpqleea919ehi115q3v0l7l7fkhsd9qg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPh1TMDpbqzfHZCXPlFLp0EuaKPTudVqQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "754483513443-cpqleea919ehi115q3v0l7l7fkhsd9qg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
